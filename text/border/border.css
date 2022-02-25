@@ -1,0 +1,9 @@
+.border{
+    /* border: 2px solid pink; */
+    /* border: 15px groove pink; */
+    /* border: 3px dashed pink; */
+    /* border: 5px double blue; */
+    /* border: 4px dotted grey; */
+    /* border: 10px inset green; */
+    border: 10px outset green;
+}
